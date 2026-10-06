@@ -1,143 +1,183 @@
 # Eduarda Souza
 
-## 💻 Desenvolvedora Front-end em formação
+## 💻 Estudante de Engenharia de Software | Tecnologia e Desenvolvimento de Software
 
-Após 7 anos de experiência na área da saúde, decidi iniciar uma transição de carreira em busca de novos desafios, desenvolvimento profissional e oportunidades de crescimento. Foi nesse processo que dei ouvidos ao meu interesse pela tecnologia e pelo desenvolvimento web.
+Sou estudante de **Engenharia de Software** e estou construindo minha trajetória na tecnologia através de muito estudo, prática e, principalmente, projetos que me desafiam a colocar o que aprendo em prática.
 
-Minha jornada na tecnologia vem sendo construída com muito estudo, dedicação e prática. Busco transformar o conhecimento adquirido em projetos práticos, desenvolvendo aplicações fictícias que me permitem consolidar conceitos, fortalecer minha lógica de programação e evoluir continuamente como desenvolvedora. Tenho incorporado os estudos à minha rotina diária, mantendo uma aprendizagem constante para construir uma carreira sólida na área.
+Comecei meus estudos pelo desenvolvimento web e, aos poucos, fui ampliando meu interesse para diferentes áreas do desenvolvimento de software. Gosto de entender como as coisas funcionam, experimentar novas tecnologias e transformar ideias em projetos que realmente saiam do papel.
 
-Meu objetivo é conquistar minha primeira oportunidade como desenvolvedora, onde eu possa aplicar os conhecimentos que venho adquirindo, aprender com profissionais experientes e contribuir com dedicação, responsabilidade e vontade de evoluir continuamente.
+Atualmente, estou construindo minha base em **front-end, back-end, bancos de dados e APIs**, sempre buscando aprender um pouco mais a cada projeto e transformar cada novo conhecimento em prática.
+
+Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia**, fazendo parte de um ambiente onde eu possa aprender, contribuir e continuar crescendo como profissional.
 
 ---
-## 📚 Formação e Cursos
 
-🎓 **Técnico em Desenvolvimento de Sistemas**  
-Em andamento
+## 📚 Formação
 
-💻 **Informática Profissional** — Informatize  
-Em andamento
+🎓 **Engenharia de Software — UNIASSELVI**
+1º semestre | Previsão de conclusão: 2030
 
-📊 **Excel Avançado** — Informatize  
-Em andamento
+## 📖 Cursos e conhecimentos complementares
 
-🧠 **Algoritmos** — Curso em Vídeo  
+ **Informática Profissional — Informatize**
+
+ **Excel Avançado — Informatize**
+
+ **Algoritmos — Curso em Vídeo**
 Carga horária: 40 horas
+
+---
 
 ## 💻 Tecnologias
 
 <div align="left">
 
 <img 
-    alt="HTML"
-    title="HTML5"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+ alt="HTML5"
+ title="HTML5"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 />
 
 <img 
-    alt="CSS"
-    title="CSS3"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+ alt="CSS3"
+ title="CSS3"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
 />
 
 <img 
-    alt="JavaScript"
-    title="JavaScript"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+ alt="JavaScript"
+ title="JavaScript"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 />
 
 <img 
-    alt="Git"
-    title="Git"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+ alt="Node.js"
+ title="Node.js"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
 />
 
 <img 
-    alt="GitHub"
-    title="GitHub"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+ alt="MySQL"
+ title="MySQL"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 />
 
 <img 
-    alt="VS Code"
-    title="Visual Studio Code"
-    width="40px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+ alt="Git"
+ title="Git"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+/>
+
+<img 
+ alt="GitHub"
+ title="GitHub"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+/>
+
+<img 
+ alt="VS Code"
+ title="Visual Studio Code"
+ width="40px"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
 />
 
 </div>
 
-## 💻 Tecnologias
+### Conhecimentos
 
-- HTML5 — estruturação de páginas web
-- CSS3 — estilização e layouts responsivos
-- JavaScript — interatividade e lógica
-- Git e GitHub — versionamento de código
-- VS Code — ambiente de desenvolvimento
+* **HTML5** — estruturação de páginas web
+* **CSS3** — estilização, layouts e responsividade
+* **JavaScript** — lógica e interatividade
+* **Node.js** — desenvolvimento de aplicações no back-end
+* **Express** — criação de APIs e servidores
+* **MySQL** — banco de dados relacional
+* **Git e GitHub** — versionamento e gerenciamento de projetos
+* **VS Code** — ambiente de desenvolvimento
 
-## 📚 Atualmente estudando
+---
 
-- JavaScript (aprofundamento)
+## 📖 Atualmente estudando
 
-- Responsividade e boas práticas de CSS
+* JavaScript
+* SQL e bancos de dados
+* APIs
+* Node.js e desenvolvimento back-end
+* React
+* Boas práticas de desenvolvimento
+* Estruturas de dados e lógica de programação
 
-- Estrutura de dados e lógica de programação
+---
 
-- React
+## 🚀 Projetos
 
-- APIs
+### 🌱 Jardim Pet
 
-- SQL
+Meu primeiro projeto completo desenvolvido durante meus estudos em programação.
 
-- Node.js
+O **Jardim Pet** é um site fictício que une um pet shop e uma loja de plantas, criado com uma proposta visual acolhedora e moderna, inspirada na conexão entre animais e natureza.
 
-## ## 🚀 Projetos
+Durante o desenvolvimento, pratiquei estruturação de páginas com HTML, estilização e layouts com CSS, responsividade, organização de arquivos, Git e publicação utilizando GitHub Pages.
 
-### Jardim Pet
+**Tecnologias utilizadas:**
 
-Este é meu primeiro projeto completo desenvolvido para praticar e consolidar os conhecimento que adquiri no inicio de meus estudos. 
-
-O Jardim Pet é um site fictício que une um pet shop e uma loja de plantas, criado com uma proposta visual acolhedora, moderna e inspirada na conexão entre animais e natureza.
-
-Durante o desenvolvimento, pratiquei criação e estruturação de HTML, criação de layouts, organização de páginas, estilização com CSS, responsividade e publicação de projetos utilizando GitHub Pages.
-
-### 🛠 Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub Pages
+* HTML5
+* CSS3
+* JavaScript
+* Git
+* GitHub Pages
 
 🔗 **Acesse o projeto:**
-
 https://eduardasouza5h-bit.github.io/jardim-pet-portifolio/
- 
+
+---
+
+### 🎬 Catálogo de Filmes
+
+Projeto desenvolvido para praticar conceitos de desenvolvimento **front-end e back-end**, integração com banco de dados e consumo de API.
+
+A aplicação permite cadastrar e visualizar filmes em um catálogo colaborativo, utilizando uma interface desenvolvida com HTML, CSS e JavaScript, além de um servidor em Node.js conectado a um banco de dados MySQL.
+
+O projeto também possui integração com a **API do TMDB** para obtenção de informações e pôsteres dos filmes.
+
+**Tecnologias utilizadas:**
+
+* HTML5
+* CSS3
+* JavaScript
+* Node.js
+* Express
+* MySQL
+* API TMDB
+* Git e GitHub
+
 ---
 
 ## 📫 Contato
 
 <div align="left">
 
-<a href="SEU_LINK_DO_LINKEDIN">
+<a href="https://github.com/eduardasouzar-dev">
 <img 
-alt="LinkedIn"
-title="LinkedIn"
-width="35px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+    alt="GitHub"
+    title="GitHub"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
 />
 </a>
 
-<a href="SEU_EMAIL">
+<a href="https://www.linkedin.com/in/eduarda-souzadev2903/">
 <img 
-alt="Email"
-title="Email"
-width="35px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+    alt="LinkedIn"
+    title="LinkedIn"
+    width="35px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
 />
 </a>
 
