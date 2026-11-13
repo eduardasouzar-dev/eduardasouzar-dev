@@ -17,7 +17,7 @@ Estudante de Engenharia de Software em busca do primeiro estágio ou vaga júnio
 
 - **Imersão em Claude — Daxus** | 02/11/2026 a 05/11/2026
 - **Algoritmos — Curso em Vídeo** | 40 horas
-- **Informática Profissional e Excel Avançado — Informatize**
+- **Informática Profissional e Excel Avançado — Informatize** | 64 hrs - concluído em nov. 2026
 
 ## Idiomas
 
