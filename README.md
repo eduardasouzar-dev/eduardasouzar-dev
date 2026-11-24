@@ -94,7 +94,7 @@ E-commerce fictício que reúne pet shop e loja de plantas. Foi meu primeiro pro
 
 **Tecnologias:** React · JavaScript · CSS3 · Node.js · Express · MySQL · Axios · JWT · APIs REST
 
-[Ver repositório](https://github.com/eduardasouzar-dev/jardim-pet-react) · [Demonstração da versão estática](https://eduardasouzar-dev.github.io/jardim-pet/)
+[Ver repositório](https://github.com/eduardasouzar-dev/jardim-pet-react)
 
 ### Catálogo de Filmes
 
